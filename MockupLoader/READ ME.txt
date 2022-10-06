@@ -1,0 +1,5 @@
+To download archives, use Archive.exe,
+after which textures and images will be located in the created folder. 
+All resources are downloaded directly from our servers.
+
+Exclusive to Behance!
